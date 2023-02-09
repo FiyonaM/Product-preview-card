@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Githhub Repo](https://github.com/FiyonaM/Product-preview)
-- Live Site URL: [Github Live site](https://fiyonam.github.io/Product-preview/)
+- Solution URL: [Solution Githhub Repo](https://github.com/FiyonaM/Product-preview-card)
+- Live Site URL: [Github Live site](https://fiyonam.github.io/Product-preview-card/)
 
 ## My process
 
